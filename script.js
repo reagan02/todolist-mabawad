@@ -23,3 +23,5 @@ function addTodo(text) {
 	li.appendChild(deleteButton);
 	todoList.appendChild(li);
 }
+
+console.log("second commit");
